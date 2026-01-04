@@ -1,6 +1,5 @@
 # Rock–Paper–Scissors–Plus (RPS+) Google ADK 
-🔗 **Live Demo:**  
-👉 [https://live-url](https://agenticairpsgameadk-yxjzftazwewxbaxgejmpdn.streamlit.app/)
+🔗 **Live Demo:** [https://live-url](https://agenticairpsgameadk-yxjzftazwewxbaxgejmpdn.streamlit.app/)
 
 A 3-round Rock–Paper–Scissors game with an extra move: **bomb** (usable **once** per player).
 This project uses **Google ADK** (Agent Development Kit) to run an LLM “referee” agent that calls a tool (`process_turn`) to enforce rules and track state.
