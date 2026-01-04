@@ -1,4 +1,4 @@
-# Rock–Paper–Scissors–Plus (RPS+) Referee — Google ADK + Offline Mode
+# Rock–Paper–Scissors–Plus (RPS+) Google ADK 
 🔗 **Live Demo:**  
 👉 [https://live-url](https://agenticairpsgameadk-yxjzftazwewxbaxgejmpdn.streamlit.app/)
 
